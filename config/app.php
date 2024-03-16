@@ -165,6 +165,8 @@ return [
         /*
          * Package Service Providers...
          */
+        Yigitbayol\Yamahawrapper\YamahaWrapperServiceProvider::class,
+        Yigitbayol\Dia\DiaServiceProvider::class,
 
         /*
          * Application Service Providers...
